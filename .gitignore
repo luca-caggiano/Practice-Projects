@@ -1,0 +1,15 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+**/Sales & Customer Analytics/preparation/.env
+**/Major Baseball League Insights/.env
+
+# Large files
+**/Airbnb Listing Analysis/Data
